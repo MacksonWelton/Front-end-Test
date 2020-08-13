@@ -1,0 +1,17 @@
+#comment {
+  display: flex;
+  box-shadow: -3px 0px 0px 0px#707070;
+  align-items: center;
+  margin-top: 10px;
+}
+
+#comment p {
+  font-size: 25px;
+  font-style: italic;
+}
+
+#comment img {
+  width: 120px;
+  border-radius: 100%;
+  margin: 0px 20px;
+}

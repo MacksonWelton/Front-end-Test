@@ -1,0 +1,29 @@
+#container-dashboard {
+  width: 100%;
+  padding: 50px 80px;
+  background-color: #e7e7e7;
+}
+
+#welcome-message h2 {
+  font-size: 40px;
+  color: #19612e;
+}
+
+#welcome-message h3 {
+  font-size: 30px;
+  color: #757575;
+  margin-bottom: 30px;
+  font-weight: normal;
+}
+
+#feed > h2 {
+  font-size: 40px;
+  color: #19612e;
+  margin: 20px 0px;
+}
+
+@media (max-width: 1200px) {
+  #container-dashboard {
+    padding: 10px;
+  }
+}
